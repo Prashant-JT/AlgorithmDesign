@@ -5,3 +5,5 @@ This is a known problem and ideal to be resolved using Dynamic programming. It i
 
 We have implemented this in order to compare the time difference and the advantages and disadvantages that dynamic programming brings in different programming languages.
 To calculate these times there are 2 scripts, one called "createExecutables" which creates a folder called "Executables", and another called "calculateTimes" to take the times and redirect the results to the folder created called "times" which contains 6 files for each algorithms.
+
+For more information about complexity and time of the algorithms (explained in Spanish): (Complexity and time analysis)
