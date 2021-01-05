@@ -1,4 +1,3 @@
-# Partition Problem
 Partition Problem: Given a set of positive integers, find if it can be divided into two subsets with equal sum.
 
 This is a known problem and ideal to be resolved using Dynamic programming. It is implemented using 6 different algorithms: Brute Force (iterative and recursive), Backtracking (iterative and recursive), Memoization and Tabulation. 
